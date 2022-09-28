@@ -1,0 +1,21 @@
+ body{
+    background-color:rgb(185, 214, 239) ;
+ }
+ *{
+    margin: 0;
+    padding: 0;
+ }
+.hr1{
+    border-style: none;
+    border-top: 10px dotted red;
+    width: 100px; 
+    margin-left: 50%;
+   
+}
+.hr2{
+    border-style: none;
+    border-top: 10px dotted red;
+    width: 100px; 
+    margin-left: 50%;
+}
+  
